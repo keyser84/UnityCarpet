@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CharacterStickCollision.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CarpetControl.cs" Line="127" Column="64" />
+      <File FileName="Assets\Scripts\CarpetCollision.cs" Line="22" Column="3" />
+      <File FileName="Assets\Scripts\CharacterLowerCollision.cs" Line="22" Column="3" />
+      <File FileName="Assets\Scripts\CharacterUpperCollision.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\CharacterStickCollision.cs" Line="25" Column="1" />
+      <File FileName="Assets\Scripts\HittingControl.cs" Line="41" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
